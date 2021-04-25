@@ -18,4 +18,4 @@ The notebook uses news articles (over 50k samples) and we can compare the model 
 
 # Performance
 
-The performance achieved is not very good (see confusion matrix) however it could be potentially improved as the dictionaries used to define the categories are fine-tuned. This is still an very interesting approach when there is no labeled dataset available to train a multiclass classification model.
+The performance achieved is not very good (see confusion matrix) however it could be potentially improved by fine-tuning the dictionaries used to define each category. Nice visualizations are developped to explain the results. This is an interesting approach when there is no labeled dataset available to train a multiclass classification model.
